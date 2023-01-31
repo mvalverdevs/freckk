@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nazaríes Intelligenia<br>⚡ Fun fact is that i think coding is art
+🔭 I’m currently working on Nazaríes Intelligenia<br>⚡ I think coding is art
 
 
 ## 🌐 Socials:
