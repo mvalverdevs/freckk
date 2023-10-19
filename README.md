@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on Nazaries Intelligenia<br>
-🚀 Feats founder https://github.com/FeatsHub<br>
-💬 Ask me about Django or Angular<br>
-🌱 I'm currently learning LiteStar<br>
+🔭 I'm currently working on <a href="https://www.nazaries.com/en/home/">Nazaries Intelligenia</a> <br>
+🚀 Feats founder https://github.com/FeatsHub <br>
+💬 Ask me about Django or Angular <br>
+🌱 I'm currently learning LiteStar <br>
 ⚡️ Code is art 🎨
 
 
